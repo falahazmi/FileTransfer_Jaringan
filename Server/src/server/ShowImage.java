@@ -9,7 +9,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author RavenPC
+ * @author ASUS
  */
 public class ShowImage extends javax.swing.JDialog {
 

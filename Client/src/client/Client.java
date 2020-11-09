@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author RavenPC
+ * @author ASUS
  */
 public class Client extends javax.swing.JFrame {
 
